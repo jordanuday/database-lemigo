@@ -1,0 +1,42 @@
+[
+  {
+    "flightNumber": "ABC123",
+    "airline": "Indigo",
+    "hours": "8h 15m",
+    "departureTime": "09:30 AM",
+    "arrivalTime": "18:15 PM",
+    "logo": "https://res.cloudinary.com/dpkxg8atl/image/upload/v1690116575/IndiGo-Logo_rvegmn.png"
+  },
+  {
+    "flightNumber": "XYZ456",
+    "airline": "Air India",
+    "hours": "6h 10m",
+    "departureTime": "06:35 AM",
+    "arrivalTime": "14:20 PM",
+    "logo": "https://res.cloudinary.com/dpkxg8atl/image/upload/v1690116574/Air-India-Logo_miaf5z.png"
+  },
+  {
+    "flightNumber": "DEF789",
+    "airline": "Qatar Airways",
+    "hours": "4h 25m",
+    "departureTime": "10:35 AM",
+    "arrivalTime": "15:45 PM",
+    "logo": "https://res.cloudinary.com/dpkxg8atl/image/upload/v1690116574/png-transparent-qatar-airways-logo-airline-oryx-others-text-logo-qatar-airways_bonj1j.png"
+  },
+  {
+    "flightNumber": "GHI101",
+    "airline": "Japan Airlines",
+    "hours": "10h 40m",
+    "departureTime": "11:00 AM",
+    "arrivalTime": "22:45 PM",
+    "logo": "https://res.cloudinary.com/dpkxg8atl/image/upload/v1690116575/airline-logos-japan-e1424575148558_atagqn.webp"
+  },
+  {
+    "flightNumber": "JKL112",
+    "airline": "Singapore Airlines",
+    "hours": "20h 40m",
+    "departureTime": "12:00 PM",
+    "arrivalTime": "02:45 AM",
+    "logo": "https://res.cloudinary.com/dpkxg8atl/image/upload/v1690116575/Singapore_Airlines_Logo_2.svg_pr0k3i.png"
+  }
+]
